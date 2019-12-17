@@ -22,6 +22,9 @@ There are *no* lockout avoidances, ensure the credentials you provide are accura
 
 The timeouts have been modified in each Impacket module (where possible) to be 25 seconds. There may still be some issues that are not handled properly and cause the tool to hang. If you encounter an issue such as the script exiting before finishing or hanging please the error message(s) and potential reasons why the error occured would be great (try and take a pcap of the crash/hanging).
 
+
+![output example](https://raw.githubusercontent.com/Freakazoidile/Open-Windows-Exec-Check/master/vmware_2019-12-16_20-54-22.png)
+
 ## Requirements
 * Impacket
 * PrettyTable
