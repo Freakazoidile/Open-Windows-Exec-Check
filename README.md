@@ -14,7 +14,7 @@ Check which Windows have been opened in your neighbourhood (network).
 
 ## Description
 
-Are you a lazy pentester who doesn't have to be quiet? Have some creds, and want to identify all the Windows systems your creds grant you access to? This is the tool for you.  Uses modified versions of impackets RDP_Check, SMBExec, PSExec, ATExec, DCOMExec, WMIExec to perform RCE checks.
+Are you a lazy pentester who doesn't have to be quiet and won't get blocked/stopped? Have some creds, and want to identify all the Windows systems your creds grant you access to? This is the tool for you.  Uses modified versions of impackets RDP_Check, SMBExec, PSExec, ATExec, DCOMExec, WMIExec to perform RCE checks.
 
 Is capable perform all checks, or subset of checks against multiple hosts with multiple credential pairs. Also supports LM:NT pass-the-hash where credentials are unknown. Outputs a PrettyTable that is easy to read that is sorted by host and username.
 
